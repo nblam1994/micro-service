@@ -16,7 +16,7 @@ This is answers for all rubric of the project
 
     -> .travis.yml 
     
-    -> ... how to deploy
+    -> As how travis.yml is written, after new code is pushed to this Github, new docker containers will be built and pushed to DockerHub and new deployment will be generated from KubeOne
 
 ## Container
 - There is a Dockerfile in repo and the docker image can be build
